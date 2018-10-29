@@ -1,4 +1,4 @@
-#Mon Oct 29 10:07:27 WIB 2018
+#Mon Oct 29 11:00:10 WIB 2018
 base.0=/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/transforms/dexMerger/debug/6
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,4 +1,4 @@
-package burhan_arifm.footballclubs
+package burhanarifm.footballclubs
 
 import org.junit.Test
 

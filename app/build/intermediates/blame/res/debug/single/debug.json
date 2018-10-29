@@ -196,6 +196,10 @@
         "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b67d0ec1af68468d1cfc17f54ee2c5f/res/layout/notification_template_part_time.xml"
     },
     {
+        "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable_img_barca.png.flat",
+        "source": "/home/burhan_arifm/Projects/gdk-kotlin/app/src/main/res/drawable/img_barca.png"
+    },
+    {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
         "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/res/color/abc_primary_text_material_dark.xml"
     },
@@ -318,6 +322,10 @@
     {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable_img_mu.png.flat",
+        "source": "/home/burhan_arifm/Projects/gdk-kotlin/app/src/main/res/drawable/img_mu.png"
     },
     {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -916,6 +924,10 @@
         "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable_img_acm.png.flat",
+        "source": "/home/burhan_arifm/Projects/gdk-kotlin/app/src/main/res/drawable/img_acm.png"
+    },
+    {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
         "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/res/drawable/abc_switch_thumb_material.xml"
     },
@@ -930,6 +942,10 @@
     {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable_img_chelsea.png.flat",
+        "source": "/home/burhan_arifm/Projects/gdk-kotlin/app/src/main/res/drawable/img_chelsea.png"
     },
     {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -1066,6 +1082,10 @@
     {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable-watch-v20_abc_dialog_material_background.xml.flat",
         "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/res/drawable-watch-v20/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/layout_item_list.xml.flat",
+        "source": "/home/burhan_arifm/Projects/gdk-kotlin/app/src/main/res/layout/item_list.xml"
     },
     {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
@@ -1296,6 +1316,10 @@
         "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/res/drawable/tooltip_frame_dark.xml"
     },
     {
+        "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable_img_arsenal.png.flat",
+        "source": "/home/burhan_arifm/Projects/gdk-kotlin/app/src/main/res/drawable/img_arsenal.png"
+    },
+    {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
@@ -1354,6 +1378,10 @@
     {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
         "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable_img_bayern.png.flat",
+        "source": "/home/burhan_arifm/Projects/gdk-kotlin/app/src/main/res/drawable/img_bayern.png"
     },
     {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
@@ -1448,6 +1476,10 @@
         "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
+        "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable_img_madrid.png.flat",
+        "source": "/home/burhan_arifm/Projects/gdk-kotlin/app/src/main/res/drawable/img_madrid.png"
+    },
+    {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -1494,6 +1526,10 @@
     {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
         "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable_img_city.png.flat",
+        "source": "/home/burhan_arifm/Projects/gdk-kotlin/app/src/main/res/drawable/img_city.png"
     },
     {
         "merged": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
