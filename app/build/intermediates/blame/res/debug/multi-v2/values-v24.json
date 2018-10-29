@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
