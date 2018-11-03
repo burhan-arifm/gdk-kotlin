@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
-import com.squareup.picasso.Picasso
+import com.bumptech.glide.Glide
 
 class RecyclerViewAdapter(private val context: Context, private val items: List<Item>, private val listener: (Item) -> Unit)
     : RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder>() {
@@ -28,7 +28,7 @@ class RecyclerViewAdapter(private val context: Context, private val items: List<
 
         fun bindItem(items: Item, listener: (Item) -> Unit) {
             name.text = items.name
-            items.image?.let { Picasso.get().load(it).into(image) }
+            items.image?.let { Glide.with(itemView.context).load(it).into(image) }
             itemView.setOnClickListener {
                 listener(items)
             }
