@@ -6,25 +6,28 @@
     density="xhdpi"
     format="10"
     plugin-version="3.2.1"
-    timestamp="1540785605638"
+    timestamp="1541212055064"
     token="-4701177966679473947"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="374" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="72" />
+        duration="30" />
     <task
         name="verifier"
-        duration="5" />
+        duration="28" />
 
     <artifact
-        location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
         type="SPLIT" />
     <artifact
         location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
@@ -33,25 +36,13 @@
         location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
         location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
         location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
         location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
@@ -59,13 +50,25 @@
     <artifact
         location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
         type="SPLIT_MAIN" />
+    <artifact
+        location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1540785605638"
+        timestamp="1541212055064"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
@@ -74,25 +77,13 @@
             location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
@@ -100,6 +91,15 @@
         <artifact
             location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
+        <artifact
+            location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/burhan_arifm/Projects/gdk-kotlin/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>
