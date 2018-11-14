@@ -1,18 +1,44 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [org.jetbrains.anko:anko:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-0.10.7.aar/0c12824eee7bc485e06af44a013dec87/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-0.10.7.aar/9194dd23f860b4c4a7f6a339acd04d7c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-coroutines-0.10.7.aar/b93ca502a987068eac0049bc12a3f682/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-design:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-design-0.10.7.aar/71e038751b624e8b2caed12fbfd7088f/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-design-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-design-coroutines-0.10.7.aar/1a9582f3c527ed5f8f8afcb22ba0e061/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-recyclerview-v7:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-recyclerview-v7-0.10.7.aar/43037fbde75d9ef45ca1125aed653b1e/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-recyclerview-v7-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-recyclerview-v7-coroutines-0.10.7.aar/f719269cd0067ac6497f915daa8284f8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:design-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/design-base-0.10.7.aar/685ee37173f23d87cbdede65f41ca860/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c817186d8fb38575b4325be24e9baa23/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-commons-0.10.7.aar/648fa878ff8cc4cbed1ef72e82370300/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompatV7-base-0.10.7.aar/458e8db1f3dfb70953913183c82d27bf/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/21df9c97248a1e656861cf0f4102b38d/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3a63089508025afe51e8ac05eabe2dec/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5964aa1001417b0aaafd0ce442a4a69b/AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/99d76844ccfca85f1c15d2e4a685e05f/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.7.aar/55bcd1f3c934e6663606df50d1856168/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sdk27-0.10.7.aar/ae346fc13369bdc98a8c73dbba01e258/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sdk27-coroutines-0.10.7.aar/7662d10941b338c1175dd64dec0b2346/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-support-v4-0.10.7.aar/f55124b2f5646a7ca342416be672b73e/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-support-v4-commons-0.10.7.aar/57b5ae4ee445b3f70106f5a0fe895075/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/7064c7b5f4f233e4d8f5cdfef131e6a7/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.7.aar/8aaac319fa843bce189d10bf5146ed18/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/sqlite-base-0.10.7.aar/62964b8d3c8ff0deb1cee4b2a5a5b735/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:platform-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/platform-base-0.10.7.aar/f8a279964e4c833ae01fe8454e5b76e8/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/supportV4-base-0.10.7.aar/9448236e161b150f53fdf9b7949ea14b/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.7.aar/acacdd00405d39b7e59e375c23a7910a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/ce99ea35243ac7ec577cabb06a2d1291/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/95546f364b58356dcebd5d8ec41f710c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8cbc2b96cc2f0c26f9f8d73a120bffab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/9d2539325e0356039e435aba7d02dda6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e2980c45e276e824b1ab94395f6031e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/99d76844ccfca85f1c15d2e4a685e05f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c02f2c4ab940dba1384592cf6c46449c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c7aac5a99f949e32a35ef5b118168e5c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/739bab105f92096f872fa963dc802655/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c02f2c4ab940dba1384592cf6c46449c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ed926a6d25d4d87a6761f3c360d383ef/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d32a55d565448877e6c63c51a2fb2c68/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a0010a5aa4b9fa2d95839cdcd7ca355d/AndroidManifest.xml:17:1-22:12
@@ -24,79 +50,134 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/burhan_arifm/
 MERGED from [com.android.support:support-compat:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b67d0ec1af68468d1cfc17f54ee2c5f/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/221e8c33641be4e747665f64f42d31ad/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5aa71fd734a9eb4c2a383c391cf67428/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/ce99ea35243ac7ec577cabb06a2d1291/AndroidManifest.xml:2:1-11:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4f1ed44bb0b3bf1b1b8f3b04e392fdd5/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cab2befea4f81a001e0f5ef10fe7a23d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b0ccf0b33141232a8cf338353b5f99ac/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ac0f7586914398060dc26ef762836703/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9d91f5d38ebe63cd6de5ec9e377e5a63/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4f1ed44bb0b3bf1b1b8f3b04e392fdd5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/43f361f6e6aee430dab5d983a2de5c52/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f4ab5f3feb051360df7644aadff8bb15/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/480e7e029db14b3626094a3841657fe8/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/24cde77d95524d5b42c81dff1128014c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/43f361f6e6aee430dab5d983a2de5c52/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:3:58-93
+		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:4:11-46
 		INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml
 		INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml
-		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-24:12
 		INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:3:11-57
 	android:versionCode
 		INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml
-		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:1-24:12
 		INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:6:5-22:19
+MERGED from [org.jetbrains.anko:anko:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-0.10.7.aar/0c12824eee7bc485e06af44a013dec87/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-0.10.7.aar/0c12824eee7bc485e06af44a013dec87/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-0.10.7.aar/9194dd23f860b4c4a7f6a339acd04d7c/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-0.10.7.aar/9194dd23f860b4c4a7f6a339acd04d7c/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-coroutines-0.10.7.aar/b93ca502a987068eac0049bc12a3f682/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-coroutines-0.10.7.aar/b93ca502a987068eac0049bc12a3f682/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-design:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-design-0.10.7.aar/71e038751b624e8b2caed12fbfd7088f/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-design:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-design-0.10.7.aar/71e038751b624e8b2caed12fbfd7088f/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-design-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-design-coroutines-0.10.7.aar/1a9582f3c527ed5f8f8afcb22ba0e061/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-design-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-design-coroutines-0.10.7.aar/1a9582f3c527ed5f8f8afcb22ba0e061/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-recyclerview-v7:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-recyclerview-v7-0.10.7.aar/43037fbde75d9ef45ca1125aed653b1e/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-recyclerview-v7:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-recyclerview-v7-0.10.7.aar/43037fbde75d9ef45ca1125aed653b1e/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-recyclerview-v7-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-recyclerview-v7-coroutines-0.10.7.aar/f719269cd0067ac6497f915daa8284f8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-recyclerview-v7-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-recyclerview-v7-coroutines-0.10.7.aar/f719269cd0067ac6497f915daa8284f8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-commons-0.10.7.aar/648fa878ff8cc4cbed1ef72e82370300/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-commons-0.10.7.aar/648fa878ff8cc4cbed1ef72e82370300/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/21df9c97248a1e656861cf0f4102b38d/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/21df9c97248a1e656861cf0f4102b38d/AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5964aa1001417b0aaafd0ce442a4a69b/AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5964aa1001417b0aaafd0ce442a4a69b/AndroidManifest.xml:10:5-20
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.7.aar/55bcd1f3c934e6663606df50d1856168/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.7.aar/55bcd1f3c934e6663606df50d1856168/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sdk27-0.10.7.aar/ae346fc13369bdc98a8c73dbba01e258/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sdk27-0.10.7.aar/ae346fc13369bdc98a8c73dbba01e258/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sdk27-coroutines-0.10.7.aar/7662d10941b338c1175dd64dec0b2346/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sdk27-coroutines-0.10.7.aar/7662d10941b338c1175dd64dec0b2346/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-support-v4-0.10.7.aar/f55124b2f5646a7ca342416be672b73e/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-support-v4-0.10.7.aar/f55124b2f5646a7ca342416be672b73e/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-support-v4-commons-0.10.7.aar/57b5ae4ee445b3f70106f5a0fe895075/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-support-v4-commons-0.10.7.aar/57b5ae4ee445b3f70106f5a0fe895075/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/7064c7b5f4f233e4d8f5cdfef131e6a7/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/7064c7b5f4f233e4d8f5cdfef131e6a7/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.7.aar/8aaac319fa843bce189d10bf5146ed18/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.7.aar/8aaac319fa843bce189d10bf5146ed18/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/ce99ea35243ac7ec577cabb06a2d1291/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/ce99ea35243ac7ec577cabb06a2d1291/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b67d0ec1af68468d1cfc17f54ee2c5f/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b67d0ec1af68468d1cfc17f54ee2c5f/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/221e8c33641be4e747665f64f42d31ad/AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/221e8c33641be4e747665f64f42d31ad/AndroidManifest.xml:22:5-23:19
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/ce99ea35243ac7ec577cabb06a2d1291/AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/ce99ea35243ac7ec577cabb06a2d1291/AndroidManifest.xml:9:5-20
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b67d0ec1af68468d1cfc17f54ee2c5f/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:10:13-39
+		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:11:13-39
 	android:label
-		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:8:13-45
+		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:9:13-45
 	android:roundIcon
-		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:9:13-58
+		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:10:13-58
 	android:icon
-		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:7:13-47
+		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:8:13-47
 	android:allowBackup
-		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:6:13-39
+		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:7:13-39
 	android:theme
-		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:11:13-44
-activity#burhanarifm.footballclubs.MainActivity
-ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:12:9-18:20
+		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:12:13-44
+activity#burhanarifm.footballclubs.activities.MainActivity
+ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:12:19-72
+		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:13:19-58
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:14:17-68
+ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:15:17-68
 	android:name
-		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:16:17-76
+ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:17:17-76
 	android:name
-		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:17:27-74
+activity#burhanarifm.footballclubs.activities.DetailsActivity
+ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:20:9-21:20
+	android:name
+		ADDED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml:20:19-61
 uses-sdk
 INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml
 INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml
+MERGED from [org.jetbrains.anko:anko:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-0.10.7.aar/0c12824eee7bc485e06af44a013dec87/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-0.10.7.aar/0c12824eee7bc485e06af44a013dec87/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-0.10.7.aar/9194dd23f860b4c4a7f6a339acd04d7c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-0.10.7.aar/9194dd23f860b4c4a7f6a339acd04d7c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-coroutines-0.10.7.aar/b93ca502a987068eac0049bc12a3f682/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-coroutines-0.10.7.aar/b93ca502a987068eac0049bc12a3f682/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-design:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-design-0.10.7.aar/71e038751b624e8b2caed12fbfd7088f/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-design:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-design-0.10.7.aar/71e038751b624e8b2caed12fbfd7088f/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-design-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-design-coroutines-0.10.7.aar/1a9582f3c527ed5f8f8afcb22ba0e061/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-design-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-design-coroutines-0.10.7.aar/1a9582f3c527ed5f8f8afcb22ba0e061/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-recyclerview-v7:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-recyclerview-v7-0.10.7.aar/43037fbde75d9ef45ca1125aed653b1e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-recyclerview-v7:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-recyclerview-v7-0.10.7.aar/43037fbde75d9ef45ca1125aed653b1e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-recyclerview-v7-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-recyclerview-v7-coroutines-0.10.7.aar/f719269cd0067ac6497f915daa8284f8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-recyclerview-v7-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-recyclerview-v7-coroutines-0.10.7.aar/f719269cd0067ac6497f915daa8284f8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:design-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/design-base-0.10.7.aar/685ee37173f23d87cbdede65f41ca860/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:design-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/design-base-0.10.7.aar/685ee37173f23d87cbdede65f41ca860/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c817186d8fb38575b4325be24e9baa23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c817186d8fb38575b4325be24e9baa23/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-commons-0.10.7.aar/648fa878ff8cc4cbed1ef72e82370300/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-commons-0.10.7.aar/648fa878ff8cc4cbed1ef72e82370300/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompatV7-base-0.10.7.aar/458e8db1f3dfb70953913183c82d27bf/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompatV7-base-0.10.7.aar/458e8db1f3dfb70953913183c82d27bf/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f64636d28d4e55576924d0b6346948e7/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/21df9c97248a1e656861cf0f4102b38d/AndroidManifest.xml:5:5-7:41
@@ -105,16 +186,46 @@ MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/burhan_arifm/.gra
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3a63089508025afe51e8ac05eabe2dec/AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5964aa1001417b0aaafd0ce442a4a69b/AndroidManifest.xml:6:5-8:41
 MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5964aa1001417b0aaafd0ce442a4a69b/AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/99d76844ccfca85f1c15d2e4a685e05f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/99d76844ccfca85f1c15d2e4a685e05f/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.7.aar/55bcd1f3c934e6663606df50d1856168/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.7.aar/55bcd1f3c934e6663606df50d1856168/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sdk27-0.10.7.aar/ae346fc13369bdc98a8c73dbba01e258/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sdk27-0.10.7.aar/ae346fc13369bdc98a8c73dbba01e258/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sdk27-coroutines-0.10.7.aar/7662d10941b338c1175dd64dec0b2346/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-sdk27-coroutines-0.10.7.aar/7662d10941b338c1175dd64dec0b2346/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-support-v4-0.10.7.aar/f55124b2f5646a7ca342416be672b73e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-support-v4-0.10.7.aar/f55124b2f5646a7ca342416be672b73e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-support-v4-commons-0.10.7.aar/57b5ae4ee445b3f70106f5a0fe895075/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-support-v4-commons-0.10.7.aar/57b5ae4ee445b3f70106f5a0fe895075/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/7064c7b5f4f233e4d8f5cdfef131e6a7/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/7064c7b5f4f233e4d8f5cdfef131e6a7/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.7.aar/8aaac319fa843bce189d10bf5146ed18/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.7.aar/8aaac319fa843bce189d10bf5146ed18/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/sqlite-base-0.10.7.aar/62964b8d3c8ff0deb1cee4b2a5a5b735/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/sqlite-base-0.10.7.aar/62964b8d3c8ff0deb1cee4b2a5a5b735/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/platform-base-0.10.7.aar/f8a279964e4c833ae01fe8454e5b76e8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/platform-base-0.10.7.aar/f8a279964e4c833ae01fe8454e5b76e8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/supportV4-base-0.10.7.aar/9448236e161b150f53fdf9b7949ea14b/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/supportV4-base-0.10.7.aar/9448236e161b150f53fdf9b7949ea14b/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.7.aar/acacdd00405d39b7e59e375c23a7910a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.7] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.7.aar/acacdd00405d39b7e59e375c23a7910a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/ce99ea35243ac7ec577cabb06a2d1291/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/ce99ea35243ac7ec577cabb06a2d1291/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/95546f364b58356dcebd5d8ec41f710c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/95546f364b58356dcebd5d8ec41f710c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8cbc2b96cc2f0c26f9f8d73a120bffab/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8cbc2b96cc2f0c26f9f8d73a120bffab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/9d2539325e0356039e435aba7d02dda6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/9d2539325e0356039e435aba7d02dda6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e2980c45e276e824b1ab94395f6031e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e2980c45e276e824b1ab94395f6031e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/99d76844ccfca85f1c15d2e4a685e05f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/99d76844ccfca85f1c15d2e4a685e05f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c02f2c4ab940dba1384592cf6c46449c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c02f2c4ab940dba1384592cf6c46449c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c7aac5a99f949e32a35ef5b118168e5c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c7aac5a99f949e32a35ef5b118168e5c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/739bab105f92096f872fa963dc802655/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/739bab105f92096f872fa963dc802655/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c02f2c4ab940dba1384592cf6c46449c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c02f2c4ab940dba1384592cf6c46449c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ed926a6d25d4d87a6761f3c360d383ef/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ed926a6d25d4d87a6761f3c360d383ef/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d32a55d565448877e6c63c51a2fb2c68/AndroidManifest.xml:20:5-44
@@ -137,10 +248,6 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /home/burhan_arifm/
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/221e8c33641be4e747665f64f42d31ad/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5aa71fd734a9eb4c2a383c391cf67428/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5aa71fd734a9eb4c2a383c391cf67428/AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/ce99ea35243ac7ec577cabb06a2d1291/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/ce99ea35243ac7ec577cabb06a2d1291/AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4f1ed44bb0b3bf1b1b8f3b04e392fdd5/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4f1ed44bb0b3bf1b1b8f3b04e392fdd5/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cab2befea4f81a001e0f5ef10fe7a23d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cab2befea4f81a001e0f5ef10fe7a23d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b0ccf0b33141232a8cf338353b5f99ac/AndroidManifest.xml:20:5-44
@@ -149,14 +256,16 @@ MERGED from [com.android.support:print:28.0.0] /home/burhan_arifm/.gradle/caches
 MERGED from [com.android.support:print:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ac0f7586914398060dc26ef762836703/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9d91f5d38ebe63cd6de5ec9e377e5a63/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9d91f5d38ebe63cd6de5ec9e377e5a63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4f1ed44bb0b3bf1b1b8f3b04e392fdd5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4f1ed44bb0b3bf1b1b8f3b04e392fdd5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/43f361f6e6aee430dab5d983a2de5c52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/43f361f6e6aee430dab5d983a2de5c52/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f4ab5f3feb051360df7644aadff8bb15/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f4ab5f3feb051360df7644aadff8bb15/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/480e7e029db14b3626094a3841657fe8/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/480e7e029db14b3626094a3841657fe8/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/24cde77d95524d5b42c81dff1128014c/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/24cde77d95524d5b42c81dff1128014c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/43f361f6e6aee430dab5d983a2de5c52/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/burhan_arifm/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/43f361f6e6aee430dab5d983a2de5c52/AndroidManifest.xml:20:5-44
 INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml
 INJECTED from /home/burhan_arifm/Projects/gdk-kotlin/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
